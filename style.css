@@ -135,7 +135,8 @@ p {
 }
 #solution {
   padding: 120px;
-  max-height: 840px;
+  width: 1600px;
+  height: 840px;
 }
 #solution .section-container {
   display: flex;
